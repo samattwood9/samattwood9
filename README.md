@@ -8,6 +8,6 @@
 
 - 💡 I’m currently researching: Secure Development, Software & Platform Security, Natural Computation
 
-- 💬 Ping me about: Any of the above
+- 💬 Message me about: Any of the above
 
 
